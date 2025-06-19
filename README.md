@@ -1,4 +1,4 @@
-# Johan Nel — BSc (IT in IKS) at the University of Pretoria
+# Johan Nel: BSc (IT in IKS) II at the University of Pretoria
 
 Hi there! I'm Johan, a second-year BSc (Information Technology in Information and Knowledge Systems: Data Science) student at the University of Pretoria. I'm passionate about computer science, mathematics, and data-driven problem solving.
 
