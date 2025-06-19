@@ -15,6 +15,7 @@ graph TD
     STK110["STK110 Statistics 89%"] --> STC122["STC122 Statistics 87%"]
     WTW134["WTW134 Mathematics 94%"] --> WTW148["WTW148 Calculus 88%"]
     WTW146["WTW146 Linear Algebra 84%"]
+    WTW115["WTW115 Discrete Structures 82%"]
     COS110 --> COS210["COS210 Theoretical Computer Science 78%"]
     COS151["COS151 Introduction to Computer Science 84%"] --> COS210
     COS110 --> COS212["COS212 Data Structures and Algorithms in Java 83%"]
