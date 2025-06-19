@@ -14,15 +14,14 @@ graph TD
     COS132 --> COS122["COS122 Operating Systems 83%"]
     STK110["STK110 Statistics 89%"] --> STC122["STC122 Statistics 87%"]
     WTW134["WTW134 Mathematics 94%"] --> WTW148["WTW148 Calculus 88%"]
+    WTW146["WTW146 Linear Algebra 84%"]
     COS110 --> COS210["COS210 Theoretical Computer Science 78%"]
     COS151["COS151 Introduction to Computer Science 84%"] --> COS210
     COS110 --> COS212["COS212 Data Structures and Algorithms in Java 83%"]
     COS110 --> COS216["COS216 Netcentric Computer Systems 80%"]
     COS110 --> COS221["COS221 Introduction to Database Systems 88%"]
-    STK110 --> STK210["STK210 Statistics 80%"]
-    STC122 --> STK210
-    STK110 --> WST212["WST212 Applications in Data Science 84%"]
-    STC122 --> WST212
+    STC122 --> STK210["STK210 Statistics 80%"]
+    STC122 --> WST212["WST212 Applications in Data Science 84%"]
 ```
 
 ## Skills and Interests
