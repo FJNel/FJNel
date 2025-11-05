@@ -46,7 +46,7 @@ graph TD
 ### Academic Awards:
 - **Dean's Merit List 2024:** Issued by Faculty of Engineering, Built Environment & IT at the University of Pretoria
 - **Runner-up for the Top First-Year Computer Science Student 2024:** Issued by School of Information Technology at the University of Pretoria
-- **Top 5 Learner in the Gert Sibande District:** Issued by Mpumalanga Department of Basic Education
+- **Top 5 Grade 12 Learner in the Gert Sibande District:** Issued by Mpumalanga Department of Basic Education
 - **Overall academic top achiever in Grade 11 and 12 at Hoërskool Secunda:** Issued by Hoërskool Secunda
 
 ## Interests and Skills:
