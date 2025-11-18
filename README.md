@@ -25,7 +25,7 @@ graph TD
     STC122 --> WST212["WST212 Applications in Data Science 84%"]
 
     COS214["COS214 Software Modelling"]
-    COS226["COS226 Concurrent Systems"]
+    COS226["COS226 Concurrent Systems 77%"]
     COS284["COS284 Computer Organisation and Architecture 75%"]
     STK220["STK220 Statistics"]
     WTW285["WTW285 Discrete Structures"]
