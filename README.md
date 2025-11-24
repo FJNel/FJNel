@@ -27,7 +27,7 @@ graph TD
     COS214["COS214 Software Modelling 78%"]
     COS226["COS226 Concurrent Systems 77%"]
     COS284["COS284 Computer Organisation and Architecture 75%"]
-    STK220["STK220 Statistics"]
+    STK220["STK220 Statistics 53%"]
     WTW285["WTW285 Discrete Structures"]
 
     COS212 --> COS214
