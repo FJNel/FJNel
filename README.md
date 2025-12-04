@@ -28,7 +28,7 @@ graph TD
     COS226["COS226 Concurrent Systems 77%"]
     COS284["COS284 Computer Organisation and Architecture 75%"]
     STK220["STK220 Statistics 53%"]
-    WTW285["WTW285 Discrete Structures"]
+    WTW285["WTW285 Discrete Structures 60%"]
 
     COS212 --> COS214
     COS122 --> COS226
@@ -36,6 +36,8 @@ graph TD
     COS212 --> COS284
     WTW115 --> WTW285
     STK210 --> STK220
+
+    JCP202["JCP202 Community-based project 88%"]
 ```
 
 ### Study Information:
