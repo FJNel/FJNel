@@ -42,8 +42,10 @@ graph TD
 
 ### Study Information:
 
-- Year 1 Cumulative weighted average: 89.75%
-- I am currently busy with my second year of study.
+- Year 1 Weighted average for term: 89.75%
+- Year 2 Weighted average for term: 76.32%
+- Current Cumulative weighted average: 82.36%
+- I have completed my 2nd year of study in 2025 an will be doing my 3rd and final year in 2026.
 
 ### Academic Awards:
 - **Dean's Merit List 2024:** Issued by Faculty of Engineering, Built Environment & IT at the University of Pretoria
