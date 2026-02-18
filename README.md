@@ -1,6 +1,6 @@
-# Johan Nel: BSc (IT in IKS) II at the University of Pretoria
+# Johan Nel: BSc (IT in IKS) III at the University of Pretoria
 
-Hi there! I'm Johan, a second-year BSc (Information Technology in Information and Knowledge Systems: Data Science) student at the University of Pretoria. This degree allows me to major in Computer Science and partial major in Data Science. 
+Hi there! I'm Johan, a third and final year BSc (Information Technology in Information and Knowledge Systems: Data Science) student at the University of Pretoria. This degree allows me to major in Computer Science and partial major in Data Science. 
 
 ## Academic Information
 
